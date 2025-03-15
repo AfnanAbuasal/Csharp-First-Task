@@ -1,0 +1,14 @@
+D:\BackendASP\C#\FirstTask\FirstTask\bin\Debug\net8.0\FirstTask.exe
+D:\BackendASP\C#\FirstTask\FirstTask\bin\Debug\net8.0\FirstTask.deps.json
+D:\BackendASP\C#\FirstTask\FirstTask\bin\Debug\net8.0\FirstTask.runtimeconfig.json
+D:\BackendASP\C#\FirstTask\FirstTask\bin\Debug\net8.0\FirstTask.dll
+D:\BackendASP\C#\FirstTask\FirstTask\bin\Debug\net8.0\FirstTask.pdb
+D:\BackendASP\C#\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackendASP\C#\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfoInputs.cache
+D:\BackendASP\C#\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfo.cs
+D:\BackendASP\C#\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.csproj.CoreCompileInputs.cache
+D:\BackendASP\C#\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.dll
+D:\BackendASP\C#\FirstTask\FirstTask\obj\Debug\net8.0\refint\FirstTask.dll
+D:\BackendASP\C#\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.pdb
+D:\BackendASP\C#\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.genruntimeconfig.cache
+D:\BackendASP\C#\FirstTask\FirstTask\obj\Debug\net8.0\ref\FirstTask.dll
